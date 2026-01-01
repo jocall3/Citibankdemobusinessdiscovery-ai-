@@ -1,0 +1,5 @@
+{
+  "name": "CitiDiscovery AI",
+  "description": "An advanced enterprise partner discovery and contextual matching engine powered by Gemini AI, featuring circuit breakers, dynamic context management, and real-time telemetry.",
+  "requestFramePermissions": []
+}
